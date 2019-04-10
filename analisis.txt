@@ -1,0 +1,5 @@
+1. Bikin Buffer jalan
+2. Bikin buffer SPBU
+3. Cari yang tidak intersect antara buffer jalan dan buffer SPBU, nanti itu disaran yg tidak terkena intersect antara buffer SPBU dan buffer jalan
+4. Rekomendasi jalan berdasarkan bobos jalan.
+5. 
